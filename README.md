@@ -10,3 +10,4 @@ Notacja ASCIIDOC
 Nieco matematyki:
 
 $$ \int f(x) = 0 $$
+
