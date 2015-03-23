@@ -12,7 +12,7 @@
 |**Bold**|\*\*tekst** lub \__tekst__|\*\*tekst**|\*\*tekst**||
 |`Monospace`|\`tekst\`|\`\`tekst\`\`|\+tekst+ lub \`tekst` ||
 |~~Przekreslenia~~|\~~tekst~~| no directive|no directive||
-|SUPER<sup>2</sup>|superscript\<sup>2\</sup><br>Tak naprawde to HTML! Super!|-------|superscript^2^||
+|SUPER<sup>2</sup>|superscript\<sup>2\</sup><br>Tak naprawde to HTML! <br> MD jest super !|-------|superscript^2^||
 |Cytat  |>Daj, ać ja pobruszę, a ty poczywaj!|:: Daj, ać ja pobruszę, a ty poczywaj!|[quote, cite author, cite source]<br>____<br>Daj, ać ja pobruszę, a ty poczywaj!<br>____||
 |Listy|* Lista<br>  * sublista <br> Można użyć też \+ lub \-|<br>- Lista<br><br>  - sublista <br> Można użyć też \* lub \+|* lista <br> ** sublista||
 |Sekcje|1: # TXT<br>2: ## TXT<br>3: ### TXT<br>4: #### TXT |1: <br>===============<br> Section Title<br>===============<br>2:<br>---------------<br> Section Title<br>---------------<br>3:<br>Section Title<br>=============<br>4:<br>Section Title<br>-------------<br>|1: TXT<br>-------<br>2: TXT<br> ~~~~~~~<br>3: TXT<br>^^^^^^^<br>4: TXT<br>+++++++||
