@@ -5,7 +5,7 @@
 |Data wydania|2004|2001|2002|||
 |LOGO:|![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo raz")|NONE|NONE|
 | Strona www | [Strona](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | [Strona](http://sphinx-doc.org/rest.html) | [Strona](http://www.methods.co.nz/asciidoc/) |   |
-|Licencja|BSD-style & GPL |Public Domain|GNU GPL, MIT||
+|Licencja|Proprietary lub GPL|Public Domain|GNU GPL, MIT||
 ||||||
 |**_Pozostale_** | | | | | |
 | *Italiki*              |  \_text_ lub \*text*                               |  \_text_ |  \*text* |   |
