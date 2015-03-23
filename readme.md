@@ -1,8 +1,9 @@
 |            | Notacja: | Markdown                                                                   | reStructuredText Primer                   | AsciiDoc                                     |   |
 |------------|----------|----------------------------------------------------------------------------|-------------------------------------------|----------------------------------------------|---|
-|**Dane podstawowe**| | | | | | |
+|**_Dane podstawowe_**| | | | | | |
 |LOGO:||![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo raz")|NONE|NONE|
 | Strona www |          | [Strona](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | [Strona](http://sphinx-doc.org/rest.html) | [Strona](http://www.methods.co.nz/asciidoc/) |   |
-|**Wyroznienia**| | | | | | |
+|**_Wyroznienia_**| | | | | | |
 | *Italiki*    |          |  \_text_ lub \*text*                               |  \_text_ |  \*text* |   |
-|**BOLD**||\**tekst** lub \__tekst__||||
+|**Bold**||\*\*tekst** lub \__tekst__|\*\*tekst**|\*\*tekst**||
+|~~Przekreslenia~~||\~~tekst~~| no directive|no directive||
