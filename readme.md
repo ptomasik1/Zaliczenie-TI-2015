@@ -7,6 +7,7 @@
 | *Italiki*    |          |  \_text_ lub \*text*                               |  \_text_ |  \*text* |   |
 |**Bold**||\*\*tekst** lub \__tekst__|\*\*tekst**|\*\*tekst**||
 |~~Przekreslenia~~||\~~tekst~~| no directive|no directive||
-|Cytat | |>Daj, ać ja pobruszę, a ty poczywaj!|:: Daj, ać ja pobruszę, a ty poczywaj!|[quote, cite author, cite source]____Daj, ać ja pobruszę, a ty poczywaj!____||
+|Cytat | |>Daj, ać ja pobruszę, a ty poczywaj!|:: Daj, ać ja pobruszę, a ty poczywaj!|[quote, cite author, cite source]<br>____<br>Daj, ać ja pobruszę, a ty poczywaj!<br>____||
+|Sekcje||1: # TXT<br>2: ## TXT<br>3: ### TXT<br>4: #### TXT |1: <br>===============<br> Section Title<br>===============<br>2:<br>---------------<br> Section Title<br>---------------<br>3:<br>Section Title<br>=============<br>4:<br>Section Title<br>-------------<br>|1: TXT<br>-------<br>2: TXT<br> ~~~~~~~<br>3: TXT<br>^^^^^^^<br>4: TXT<br>+++++++||
 
 
