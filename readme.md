@@ -1,6 +1,8 @@
 |            | Notacja: | Markdown                                                                   | reStructuredText Primer                   | AsciiDoc                                     |   |
 |------------|----------|----------------------------------------------------------------------------|-------------------------------------------|----------------------------------------------|---|
 |**_Dane podstawowe_**| 
+|Tworca||John Gruber i Aaron Swartz|David_Goodger|Stuart Rackham||
+|Data wydania|2004|2001|2002|||
 |LOGO:||![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo raz")|NONE|NONE|
 | Strona www |          | [Strona](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | [Strona](http://sphinx-doc.org/rest.html) | [Strona](http://www.methods.co.nz/asciidoc/) |   |
 |Licencja||BSD-style & GPL |Public Domain|GNU GPL, MIT||
