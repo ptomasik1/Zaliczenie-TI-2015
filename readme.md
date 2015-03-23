@@ -1,5 +1,5 @@
-| Notacja:            | Markdown                                                                   | reStructuredText Primer                   | AsciiDoc                                     |   
-|------------|----------|----------------------------------------------------------------------------|-------------------------------------------|
+| Notacja:| Markdown| reStructuredText Primer| AsciiDoc| 
+|------------|----------|------|-----------------------|
 |**_Dane podstawowe_**| 
 |Tworca|John Gruber i Aaron Swartz|David_Goodger|Stuart Rackham||
 |Data wydania|2004|2001|2002|||
@@ -8,7 +8,7 @@
 |Licencja|Proprietary lub GPL|Public Domain|GNU GPL, MIT||
 ||||||
 |**_Pozostale_** | | | | | |
-| *Italiki*              |  \_text_ lub \*text*                               |  \_text_ |  \*text* |   |
+| *Italiki* |  \_text_ lub \*text*|  \_text_ |  \*text* ||
 |**Bold**|\*\*tekst** lub \__tekst__|\*\*tekst**|\*\*tekst**||
 |`Monospace`|\`tekst\`|\`\`tekst\`\`|\+tekst+ lub \`tekst` ||
 |~~Przekreslenia~~|\~~tekst~~| no directive|no directive||
