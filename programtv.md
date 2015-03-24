@@ -9,4 +9,6 @@
 |6|**06:10** Świat się kręci|**06:35** Wróć i czyń dobro - _dokument, Polska 2015_|**06:00** Nowy dzień z Polsat News|**06:10** Mango - _Telezakupy_|**06:15** W-11 wydział śledczy odc. 1027 - _serial, Polska 2013_|
 |7|**07:40** Historia dla ciebie - _pamięć.pl_|**07:00** M jak miłość odc. 755 - _serial, Polska 2014_|**07:15** Detektywi odc. 971 - _serial, Polska 2012_|**07:00** Julia odc. 154 - _serial, Polska 2012_|**07:22** Żołnierski blues - _komedia, USA 1960_|
 |8|**08:00** Wiadomości|**08:00** Pytanie na śniadanie|**08:00** Trudne sprawy s. 9 odc. 16 - _serial, Polska 2014_|**08:00** Dzień dobry !|**08:10** Sąd rodzinny odc. 157 - _serial, Polska 2010_|
+|9|**09:20** Klan odc. 2722 - _serial, Polska 2015_|**09:10** Barwy szczęścia odc. 1261 - _serial, Polska 2014_|**09:00** Malanowski i Partnerzy s. 4 odc. 166 - _serial, Polska 2011_|**09:10** Sędzia Anna Maria Wesołowska odc. 558 - _serial, Polska 2009_|
+|10|**10:50** Wspaniałe stulecie odc. 101 - _serial, Turcja 2011_||**10:00** Dzień, który zmienił moje życie s. 3 odc. 16 - _serial, Polska 2014_|**10:10** Dr House s. 2 odc. 2 - _serial, USA 2005_|**10:55** Na Wspólnej odc. 2038 - _serial, Polska 2015_|
 
