@@ -13,4 +13,4 @@
 |10|**10:50** Wspaniałe stulecie odc. 101 - _serial, Turcja 2011_||**10:00** Dzień, który zmienił moje życie s. 3 odc. 16 - _serial, Polska 2014_|**10:10** Dr House s. 2 odc. 2 - _serial, USA 2005_|**10:55** Na Wspólnej odc. 2038 - _serial, Polska 2015_|
 |12||**12:00** Wiadomości|**12:50** Paranienormalni Tonight||**12:25** Szpital||
 |13|**13:15** Tajemnice ptaków odc. 5 - _dokument, Wielka Brytania 2010_|||**13:45** Wojciech Cejrowski - _boso przez świat odc. 26 - dokument, Polska 2007_||
-|14||**14:20** Licencja na wychowanie odc. 13 - _serial, Polska 2011_|**14:45** Dzień, który zmienił moje życie s. 3 odc. 17 - _serial, Polska 2014_|**14:00** Ukryta prawda odc. 443 - _serial, Polska 2015_|14:50 Sędzia Anna Maria Wesołowska odc. 559 - _serial, Polska 2009_|||
+|14||**14:20** Licencja na wychowanie odc. 13 - _serial, Polska 2011_|**14:45** Dzień, który zmienił moje życie s. 3 odc. 17 - _serial, Polska 2014_|**14:00** Ukryta prawda odc. 443 - _serial, Polska 2015_|**14:50** Sędzia Anna Maria Wesołowska odc. 559 - _serial, Polska 2009_|||
