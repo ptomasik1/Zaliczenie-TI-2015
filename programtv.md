@@ -2,4 +2,4 @@
 |---|:---|:---|:---|:---|:---|:---|
 |0|**00:25** Półmrok - thriller, Wielka Brytania/Niemcy 2006|**00:10** To ja, złodziej - - komedia sensacyjna, Polska 2000|**00:35** Złamany angielski- komediodramat, USA/Francja/Japonia 2007|**00:30** Kamuflaż s. 2 odc. 9 - serial, USA 2011|||
 |1||||**01:30** - Co za tydzień|**01:30** Sekrety magii odc. 319 - rozrywka, Polska||
-|2|**02:20** - Notacje odc. 176 - dokument, Polska 2008 <br> **02:30** Listy z Katynia - dokument, Polska 2012<br>**02:50** Autostrada do nieba odc. 53 - serial, USA 1987|**02:00** Czas honoru. Powstanie odc. 8 - serial, Polska 2014 <br> **02:55** Tomasz Lis na żywo<br><br><br><br><br><br>|**02:15** Tajemnice losu<br><br><br><br><br><br><br><br>||||
+|2|**02:20** - Notacje odc. 176 - dokument, Polska 2008 <br> **02:30** Listy z Katynia - dokument, Polska 2012<br>**02:50** Autostrada do nieba odc. 53 - serial, USA 1987|**02:00** Czas honoru. Powstanie odc. 8 - serial, Polska 2014 <br> **02:55** Tomasz Lis na żywo|**02:15** Tajemnice losu||||
