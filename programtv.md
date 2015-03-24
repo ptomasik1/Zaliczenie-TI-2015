@@ -11,4 +11,5 @@
 |8|**08:00** Wiadomości|**08:00** Pytanie na śniadanie|**08:00** Trudne sprawy s. 9 odc. 16 - _serial, Polska 2014_|**08:00** Dzień dobry !|**08:10** Sąd rodzinny odc. 157 - _serial, Polska 2010_|
 |9|**09:20** Klan odc. 2722 - _serial, Polska 2015_|**09:10** Barwy szczęścia odc. 1261 - _serial, Polska 2014_|**09:00** Malanowski i Partnerzy s. 4 odc. 166 - _serial, Polska 2011_|**09:10** Sędzia Anna Maria Wesołowska odc. 558 - _serial, Polska 2009_|
 |10|**10:50** Wspaniałe stulecie odc. 101 - _serial, Turcja 2011_||**10:00** Dzień, który zmienił moje życie s. 3 odc. 16 - _serial, Polska 2014_|**10:10** Dr House s. 2 odc. 2 - _serial, USA 2005_|**10:55** Na Wspólnej odc. 2038 - _serial, Polska 2015_|
+|12||**12:00** Wiadomości|**12:50** Paranienormalni Tonight||**12:25** Szpital||
 
